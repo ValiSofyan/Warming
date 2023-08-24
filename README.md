@@ -8,7 +8,7 @@
         Selamat datang untuk teman-teman yang sampai di chapter 3 ini. Untuk menjadi the next talent digital kita perlu belajar dan terus mengexplore hal-hal baru. Tetep dijaga semangat dan rasa ingin tahunya. 🤙
 
 ## Ceritakan dong Motivasi teman-teman join dengan kelas ini
-> Saya bergabung dengan kelas ini karena ingin mengeksplore pemahaman saya tentang dunia pemograman
+> Saya bergabung dengan kelas ini karena ingin mengeksplore pemahaman saya tentang dunia pemograman, selain itu di harapkan setelah lulus dapat terus update tentang perkembangan dunia it
 
 
 ## Lalu harapan teman-teman miliki
